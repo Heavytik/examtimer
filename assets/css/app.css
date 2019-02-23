@@ -1,0 +1,13 @@
+body {
+    width: 500px;
+    margin: auto;
+    background-color: lightgray;
+}
+
+#form > div {
+    margin: 10px 0px;
+}
+
+label {
+    margin: 10px 0px;
+}
